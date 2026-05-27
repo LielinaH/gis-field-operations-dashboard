@@ -508,7 +508,7 @@ export default function Dashboard() {
         <header className="dashboard-header">
           <div className="brand-section">
             <h1 className="brand-title">
-              <Activity style={{ color: 'var(--accent)' }} size={24} />
+              <img src="/logo.png" alt="GIS Logo" style={{ width: '24px', height: '24px', objectFit: 'contain' }} />
               GIS Field Operations & Asset Tracking
             </h1>
             <span className="brand-subtitle">Dispatcher Console v1.2.0 • Real-time Infrastructure Monitoring</span>
