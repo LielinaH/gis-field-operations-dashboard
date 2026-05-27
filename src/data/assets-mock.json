@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "AST-1001",
+    "name": "Capitol Hill Substation A",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "high",
+    "latitude": 47.6152,
+    "longitude": -122.3218,
+    "neighborhood": "Capitol Hill",
+    "technician": "Marcus Vance",
+    "lastServiced": "2026-05-12T10:00:00Z",
+    "description": "Main electrical distribution substation serving the southern block of Capitol Hill.",
+    "history": [
+      {
+        "date": "2026-05-12T10:00:00Z",
+        "action": "Replaced faulty insulator and cleaned contacts",
+        "technician": "Marcus Vance"
+      },
+      {
+        "date": "2026-04-01T08:30:00Z",
+        "action": "Routine thermal inspection",
+        "technician": "Marcus Vance"
+      }
+    ]
+  },
+  {
+    "id": "AST-1002",
+    "name": "Ballard Flow Regulator 14",
+    "category": "Water",
+    "status": "urgent",
+    "priority": "critical",
+    "latitude": 47.6711,
+    "longitude": -122.3822,
+    "neighborhood": "Ballard",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-04-20T14:30:00Z",
+    "description": "Critical water pressure regulator showing high-pressure anomalies in the main pipeline. Risk of rupture.",
+    "history": [
+      {
+        "date": "2026-04-20T14:30:00Z",
+        "action": "Calibrated pressure sensors",
+        "technician": "Elena Rostova"
+      },
+      {
+        "date": "2026-01-15T09:15:00Z",
+        "action": "Diaphragm replacement and lubrication",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1003",
+    "name": "Fremont Fiber Hub F-2",
+    "category": "Telecom",
+    "status": "pending",
+    "priority": "medium",
+    "latitude": 47.6512,
+    "longitude": -122.3512,
+    "neighborhood": "Fremont",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-05-01T11:15:00Z",
+    "description": "Fremont business district fiber-optic junction cabinet. Standard annual firmware update and dust filter replacement required.",
+    "history": [
+      {
+        "date": "2026-05-01T11:15:00Z",
+        "action": "Visual inspection and cabinet lock repair",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1004",
+    "name": "Downtown Gas Main Valve 08",
+    "category": "Gas",
+    "status": "repaired",
+    "priority": "low",
+    "latitude": 47.6083,
+    "longitude": -122.3364,
+    "neighborhood": "Downtown",
+    "technician": "David K.",
+    "lastServiced": "2026-05-25T16:00:00Z",
+    "description": "Main natural gas shut-off valve near Westlake. Recently reported a minor packing leak, now fully resolved.",
+    "history": [
+      {
+        "date": "2026-05-25T16:00:00Z",
+        "action": "Replaced stem packing and tested for methane leaks. Zero reading.",
+        "technician": "David K."
+      },
+      {
+        "date": "2026-05-24T18:30:00Z",
+        "action": "Methane sensor flagged low concentration leak",
+        "technician": "Automated Sensor"
+      }
+    ]
+  },
+  {
+    "id": "AST-1005",
+    "name": "Queen Anne Transformer Pole 87",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "medium",
+    "latitude": 47.6345,
+    "longitude": -122.3615,
+    "neighborhood": "Queen Anne",
+    "technician": "Kenji Takahashi",
+    "lastServiced": "2026-03-10T12:00:00Z",
+    "description": "Pole-mounted step-down transformer serving top-of-hill residential zone.",
+    "history": [
+      {
+        "date": "2026-03-10T12:00:00Z",
+        "action": "Completed scheduled cleaning and bushing inspection",
+        "technician": "Kenji Takahashi"
+      }
+    ]
+  },
+  {
+    "id": "AST-1006",
+    "name": "West Seattle Lift Pump 3",
+    "category": "Water",
+    "status": "urgent",
+    "priority": "high",
+    "latitude": 47.5621,
+    "longitude": -122.3842,
+    "neighborhood": "West Seattle",
+    "technician": "Marcus Vance",
+    "lastServiced": "2026-02-14T09:00:00Z",
+    "description": "Sewage lift station pump motor experiencing excessive vibration and elevated temperature readings.",
+    "history": [
+      {
+        "date": "2026-02-14T09:00:00Z",
+        "action": "Replaced motor bearings",
+        "technician": "Marcus Vance"
+      }
+    ]
+  },
+  {
+    "id": "AST-1007",
+    "name": "U-District Fiber Node U-6",
+    "category": "Telecom",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6619,
+    "longitude": -122.3134,
+    "neighborhood": "University District",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-05-18T13:45:00Z",
+    "description": "High-speed optical node serving university student housing sectors. Stable performance.",
+    "history": [
+      {
+        "date": "2026-05-18T13:45:00Z",
+        "action": "Spliced additional optical fiber pairs for capacity expansion",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1008",
+    "name": "Downtown District Regulator Station",
+    "category": "Gas",
+    "status": "active",
+    "priority": "high",
+    "latitude": 47.6025,
+    "longitude": -122.3298,
+    "neighborhood": "Downtown",
+    "technician": "David K.",
+    "lastServiced": "2026-05-20T10:00:00Z",
+    "description": "High-pressure gas reducing station. Monitored parameters are within normal limits.",
+    "history": [
+      {
+        "date": "2026-05-20T10:00:00Z",
+        "action": "Routine safety relief valve testing",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1009",
+    "name": "Capitol Hill Fiber Trunk C-12",
+    "category": "Telecom",
+    "status": "closed",
+    "priority": "low",
+    "latitude": 47.6201,
+    "longitude": -122.3245,
+    "neighborhood": "Capitol Hill",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-01-10T15:30:00Z",
+    "description": "Obsolete coaxial distributor cabinet. Fully decommissioned and traffic rerouted to active fiber cabinets.",
+    "history": [
+      {
+        "date": "2026-01-10T15:30:00Z",
+        "action": "De-energized and marked out of service",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1010",
+    "name": "Ballard Power Transformer B-2",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "medium",
+    "latitude": 47.6654,
+    "longitude": -122.3789,
+    "neighborhood": "Ballard",
+    "technician": "Kenji Takahashi",
+    "lastServiced": "2026-05-15T09:30:00Z",
+    "description": "Commercial substation feeding the Ballard maritime industrial sector.",
+    "history": [
+      {
+        "date": "2026-05-15T09:30:00Z",
+        "action": "Oil chemistry and dissolved gas analysis (DGA) sampling",
+        "technician": "Kenji Takahashi"
+      }
+    ]
+  },
+  {
+    "id": "AST-1011",
+    "name": "Fremont Main Sewer Gateway",
+    "category": "Water",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6534,
+    "longitude": -122.3487,
+    "neighborhood": "Fremont",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-04-12T11:00:00Z",
+    "description": "Ultrasonic flow meter and water quality sensor junction at Fremont canal crossing.",
+    "history": [
+      {
+        "date": "2026-04-12T11:00:00Z",
+        "action": "Sensor lens cleaning and calibration",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1012",
+    "name": "Queen Anne Gas Main Valve 04",
+    "category": "Gas",
+    "status": "pending",
+    "priority": "high",
+    "latitude": 47.6288,
+    "longitude": -122.3582,
+    "neighborhood": "Queen Anne",
+    "technician": "David K.",
+    "lastServiced": "2025-11-20T10:15:00Z",
+    "description": "Isolation valve on high-pressure lateral line. Due for annual integrity testing and casing depth verification.",
+    "history": [
+      {
+        "date": "2025-11-20T10:15:00Z",
+        "action": "Corrosion barrier painting",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1013",
+    "name": "West Seattle LTE Backup Tower",
+    "category": "Telecom",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.5701,
+    "longitude": -122.3911,
+    "neighborhood": "West Seattle",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-05-05T08:00:00Z",
+    "description": "Backup cellular mast supporting city telemetry and emergency responder networks.",
+    "history": [
+      {
+        "date": "2026-05-05T08:00:00Z",
+        "action": "Generator fuel system inspection and start testing",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1014",
+    "name": "U-District High Voltage Hub",
+    "category": "Electrical",
+    "status": "urgent",
+    "priority": "critical",
+    "latitude": 47.6685,
+    "longitude": -122.3089,
+    "neighborhood": "University District",
+    "technician": "Marcus Vance",
+    "lastServiced": "2026-03-22T13:00:00Z",
+    "description": "High voltage switchyard pole. Thermal cameras detect critical overheating (hotspot) on phase B terminal.",
+    "history": [
+      {
+        "date": "2026-03-22T13:00:00Z",
+        "action": "Replaced bolt clamp connectors",
+        "technician": "Marcus Vance"
+      }
+    ]
+  },
+  {
+    "id": "AST-1015",
+    "name": "Downtown Water Flow Vault 3",
+    "category": "Water",
+    "status": "active",
+    "priority": "medium",
+    "latitude": 47.6044,
+    "longitude": -122.3412,
+    "neighborhood": "Downtown",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-05-19T09:00:00Z",
+    "description": "Underground flow telemetry hub for downtown retail sector. Operates normally.",
+    "history": [
+      {
+        "date": "2026-05-19T09:00:00Z",
+        "action": "Replaced telemetry backup battery pack",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1016",
+    "name": "Capitol Hill Gas Regulator Vault",
+    "category": "Gas",
+    "status": "repaired",
+    "priority": "medium",
+    "latitude": 47.6188,
+    "longitude": -122.3167,
+    "neighborhood": "Capitol Hill",
+    "technician": "David K.",
+    "lastServiced": "2026-05-26T11:00:00Z",
+    "description": "District gas regulation vault. Reported high water accumulation inside vault, sump pump has been repaired.",
+    "history": [
+      {
+        "date": "2026-05-26T11:00:00Z",
+        "action": "Replaced float switch on vault sump pump and cleared drain",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1017",
+    "name": "Fremont Solar Panel Array Grid Hub",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6489,
+    "longitude": -122.3556,
+    "neighborhood": "Fremont",
+    "technician": "Kenji Takahashi",
+    "lastServiced": "2026-05-10T14:00:00Z",
+    "description": "Grid-tie inverter system monitoring interface for neighborhood rooftop solar integration.",
+    "history": [
+      {
+        "date": "2026-05-10T14:00:00Z",
+        "action": "Cleaned inverter heatsinks and verified communication link",
+        "technician": "Kenji Takahashi"
+      }
+    ]
+  },
+  {
+    "id": "AST-1018",
+    "name": "Ballard Sewer Syphon Inlet",
+    "category": "Water",
+    "status": "pending",
+    "priority": "high",
+    "latitude": 47.6698,
+    "longitude": -122.3905,
+    "neighborhood": "Ballard",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-01-20T10:00:00Z",
+    "description": "Sewer syphon structure under Salmon Bay. Scheduled for CCTV camera inspection to check silt accumulation.",
+    "history": [
+      {
+        "date": "2026-01-20T10:00:00Z",
+        "action": "Flushed intake screens",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1019",
+    "name": "Queen Anne Fiber Distribution Hub QA-3",
+    "category": "Telecom",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6412,
+    "longitude": -122.3688,
+    "neighborhood": "Queen Anne",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-04-30T15:15:00Z",
+    "description": "Passive optical splitter cabinet. Light level logs show normal attenuation.",
+    "history": [
+      {
+        "date": "2026-04-30T15:15:00Z",
+        "action": "Cleaned bulkhead adapters and organized patch cords",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1020",
+    "name": "West Seattle Main Gas Feed Valve",
+    "category": "Gas",
+    "status": "urgent",
+    "priority": "critical",
+    "latitude": 47.5555,
+    "longitude": -122.3755,
+    "neighborhood": "West Seattle",
+    "technician": "David K.",
+    "lastServiced": "2026-05-02T09:00:00Z",
+    "description": "High-pressure isolation valve. Scada reports pressure drop alarm. Suspected seal leak or pipe compromise.",
+    "history": [
+      {
+        "date": "2026-05-02T09:00:00Z",
+        "action": "Replaced valve actuator batteries",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1021",
+    "name": "Downtown Fiber Ring Hub D-1",
+    "category": "Telecom",
+    "status": "active",
+    "priority": "high",
+    "latitude": 47.6111,
+    "longitude": -122.3312,
+    "neighborhood": "Downtown",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-05-22T08:30:00Z",
+    "description": "High-density core fiber switch in downtown commercial high-rise area.",
+    "history": [
+      {
+        "date": "2026-05-22T08:30:00Z",
+        "action": "Upgraded transceiver modules to 100G capacity",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1022",
+    "name": "U-District Water Vault 12",
+    "category": "Water",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6587,
+    "longitude": -122.3015,
+    "neighborhood": "University District",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-05-14T11:00:00Z",
+    "description": "Metered link to campus district. Water flow logs correspond to seasonal school schedule.",
+    "history": [
+      {
+        "date": "2026-05-14T11:00:00Z",
+        "action": "Verified calibration settings of flow meter",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1023",
+    "name": "Fremont Electrical Vault F-10",
+    "category": "Electrical",
+    "status": "pending",
+    "priority": "low",
+    "latitude": 47.6567,
+    "longitude": -122.3598,
+    "neighborhood": "Fremont",
+    "technician": "Kenji Takahashi",
+    "lastServiced": "2026-02-18T10:00:00Z",
+    "description": "Underground power distribution vault. Inspections scheduled to check vault dryness and structural concrete integrity.",
+    "history": [
+      {
+        "date": "2026-02-18T10:00:00Z",
+        "action": "Cleared storm water debris from grate",
+        "technician": "Kenji Takahashi"
+      }
+    ]
+  },
+  {
+    "id": "AST-1024",
+    "name": "Capitol Hill Water Main Hydrant H-23",
+    "category": "Water",
+    "status": "repaired",
+    "priority": "medium",
+    "latitude": 47.6119,
+    "longitude": -122.3121,
+    "neighborhood": "Capitol Hill",
+    "technician": "Marcus Vance",
+    "lastServiced": "2026-05-24T14:00:00Z",
+    "description": "Fire hydrant knocked loose by traffic accident. Fully replaced and pressure tested.",
+    "history": [
+      {
+        "date": "2026-05-24T14:00:00Z",
+        "action": "Installed new hydrant body and connected new shear valve bolt assemblies",
+        "technician": "Marcus Vance"
+      }
+    ]
+  },
+  {
+    "id": "AST-1025",
+    "name": "Ballard Gas Line Valve B-12",
+    "category": "Gas",
+    "status": "active",
+    "priority": "medium",
+    "latitude": 47.6631,
+    "longitude": -122.3855,
+    "neighborhood": "Ballard",
+    "technician": "David K.",
+    "lastServiced": "2026-04-18T15:00:00Z",
+    "description": "Section isolation valve for industrial shipyard. Leak surveys pass with clean rating.",
+    "history": [
+      {
+        "date": "2026-04-18T15:00:00Z",
+        "action": "Performed sniffer testing and greased gears",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1026",
+    "name": "Queen Anne Water Regulator QA-1",
+    "category": "Water",
+    "status": "active",
+    "priority": "high",
+    "latitude": 47.6367,
+    "longitude": -122.3551,
+    "neighborhood": "Queen Anne",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-05-11T13:20:00Z",
+    "description": "High-altitude booster pump and regulation valve array to supply upper Queen Anne Hill.",
+    "history": [
+      {
+        "date": "2026-05-11T13:20:00Z",
+        "action": "Replaced backup electrical relays",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1027",
+    "name": "West Seattle Transformer W-4",
+    "category": "Electrical",
+    "status": "urgent",
+    "priority": "medium",
+    "latitude": 47.5599,
+    "longitude": -122.3955,
+    "neighborhood": "West Seattle",
+    "technician": "Kenji Takahashi",
+    "lastServiced": "2026-03-01T09:30:00Z",
+    "description": "Overhead transformer bank. Local outage reports correlate to animal entry and subsequent fuse blow.",
+    "history": [
+      {
+        "date": "2026-03-01T09:30:00Z",
+        "action": "Installed wild animal shield kits",
+        "technician": "Kenji Takahashi"
+      }
+    ]
+  },
+  {
+    "id": "AST-1028",
+    "name": "U-District Telecom Junction Box U-14",
+    "category": "Telecom",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6655,
+    "longitude": -122.3188,
+    "neighborhood": "University District",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-05-09T14:40:00Z",
+    "description": "Copper and fiber distribution cabinet serving local business offices.",
+    "history": [
+      {
+        "date": "2026-05-09T14:40:00Z",
+        "action": "Sorted and labeled client terminations",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1029",
+    "name": "Downtown Substation D-3",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "high",
+    "latitude": 47.6067,
+    "longitude": -122.3395,
+    "neighborhood": "Downtown",
+    "technician": "Marcus Vance",
+    "lastServiced": "2026-05-20T10:00:00Z",
+    "description": "Downtown commercial substation vault. Core transformer oil temperatures monitored.",
+    "history": [
+      {
+        "date": "2026-05-20T10:00:00Z",
+        "action": "Calibrated temperature sensor probes",
+        "technician": "Marcus Vance"
+      }
+    ]
+  },
+  {
+    "id": "AST-1030",
+    "name": "Downtown Switch Vault D-5",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "high",
+    "latitude": 47.6015,
+    "longitude": -122.3325,
+    "neighborhood": "Downtown",
+    "technician": "Marcus Vance",
+    "lastServiced": "2026-05-20T10:00:00Z",
+    "description": "Underground commercial switch vault feeding high-rise sector.",
+    "history": [
+      {
+        "date": "2026-05-20T10:00:00Z",
+        "action": "Calibrated temperature sensor probes",
+        "technician": "Marcus Vance"
+      }
+    ]
+  },
+  {
+    "id": "AST-1031",
+    "name": "Fremont Methane Sensor F-12",
+    "category": "Gas",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6521,
+    "longitude": -122.3578,
+    "neighborhood": "Fremont",
+    "technician": "David K.",
+    "lastServiced": "2026-05-14T09:15:00Z",
+    "description": "Continuous electronic methane sniffer at pipeline cross-connection.",
+    "history": [
+      {
+        "date": "2026-05-14T09:15:00Z",
+        "action": "Verified calibration using standard check gas",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1032",
+    "name": "Capitol Hill Fiber Cabinet C-4",
+    "category": "Telecom",
+    "status": "pending",
+    "priority": "medium",
+    "latitude": 47.6167,
+    "longitude": -122.3278,
+    "neighborhood": "Capitol Hill",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-02-10T14:00:00Z",
+    "description": "Distribution cabinet showing door switch alert. Dispatch scheduled to check hinge structural integrity and lock replacement.",
+    "history": [
+      {
+        "date": "2026-02-10T14:00:00Z",
+        "action": "Cleaned patch card terminals",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1033",
+    "name": "Ballard Gas Regulator Vault B-3",
+    "category": "Gas",
+    "status": "active",
+    "priority": "medium",
+    "latitude": 47.6756,
+    "longitude": -122.3734,
+    "neighborhood": "Ballard",
+    "technician": "David K.",
+    "lastServiced": "2026-05-08T11:20:00Z",
+    "description": "Pressure-reducing gas regulator vault. All safety slam-shuts checked and operational.",
+    "history": [
+      {
+        "date": "2026-05-08T11:20:00Z",
+        "action": "Lubricated valve pilot mechanism",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1034",
+    "name": "Queen Anne Water Tower Reservoir",
+    "category": "Water",
+    "status": "active",
+    "priority": "high",
+    "latitude": 47.6312,
+    "longitude": -122.3722,
+    "neighborhood": "Queen Anne",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-05-18T16:00:00Z",
+    "description": "Queen Anne municipal reservoir tank water level telemetry and chlorine monitoring array.",
+    "history": [
+      {
+        "date": "2026-05-18T16:00:00Z",
+        "action": "Calibrated chlorine chemical measurement cells",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1035",
+    "name": "West Seattle Transformer Grid W-9",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.5687,
+    "longitude": -122.3812,
+    "neighborhood": "West Seattle",
+    "technician": "Kenji Takahashi",
+    "lastServiced": "2026-05-02T13:30:00Z",
+    "description": "Pole line transformer serving single residential cul-de-sac. Stable load parameters.",
+    "history": [
+      {
+        "date": "2026-05-02T13:30:00Z",
+        "action": "Inspected lightning arrestor mounts",
+        "technician": "Kenji Takahashi"
+      }
+    ]
+  },
+  {
+    "id": "AST-1036",
+    "name": "U-District Gas Pipeline Regulator",
+    "category": "Gas",
+    "status": "urgent",
+    "priority": "high",
+    "latitude": 47.6633,
+    "longitude": -122.3045,
+    "neighborhood": "University District",
+    "technician": "David K.",
+    "lastServiced": "2026-04-12T10:00:00Z",
+    "description": "Regulator unit indicating abnormal output pressure rise during off-peak hours. Valve failure danger.",
+    "history": [
+      {
+        "date": "2026-04-12T10:00:00Z",
+        "action": "Replaced pilot spring assembly",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1037",
+    "name": "Downtown Lift Pump D-4",
+    "category": "Water",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6012,
+    "longitude": -122.3355,
+    "neighborhood": "Downtown",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-05-23T15:00:00Z",
+    "description": "Basement stormwater drainage lift station. Pumps check out normally.",
+    "history": [
+      {
+        "date": "2026-05-23T15:00:00Z",
+        "action": "Cleared pump impellers of fabric blockage",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1038",
+    "name": "Fremont Electrical Switchyard Pole F-2",
+    "category": "Electrical",
+    "status": "repaired",
+    "priority": "high",
+    "latitude": 47.6495,
+    "longitude": -122.3421,
+    "neighborhood": "Fremont",
+    "technician": "Marcus Vance",
+    "lastServiced": "2026-05-27T08:00:00Z",
+    "description": "High voltage switch pole damaged by high winds. Restored and tested.",
+    "history": [
+      {
+        "date": "2026-05-27T08:00:00Z",
+        "action": "Re-secured crossarm mounting bolts and installed new isolation fuses",
+        "technician": "Marcus Vance"
+      },
+      {
+        "date": "2026-05-26T21:15:00Z",
+        "action": "Outage alert triggered - storm wind damage suspected",
+        "technician": "System Automated"
+      }
+    ]
+  },
+  {
+    "id": "AST-1039",
+    "name": "Capitol Hill Methane Monitor C-1",
+    "category": "Gas",
+    "status": "active",
+    "priority": "medium",
+    "latitude": 47.6134,
+    "longitude": -122.3189,
+    "neighborhood": "Capitol Hill",
+    "technician": "David K.",
+    "lastServiced": "2026-05-14T11:45:00Z",
+    "description": "Vault monitoring sensor linked to telemetry network. Stable zero-baseline reading.",
+    "history": [
+      {
+        "date": "2026-05-14T11:45:00Z",
+        "action": "Tested battery health and verified communication signal strength",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1040",
+    "name": "Ballard Telecom Trunk Cabinets",
+    "category": "Telecom",
+    "status": "pending",
+    "priority": "low",
+    "latitude": 47.6745,
+    "longitude": -122.3867,
+    "neighborhood": "Ballard",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-03-01T15:00:00Z",
+    "description": "Main optical nodes cabinet. Scheduled for cleaning after heavy neighborhood construction dust accumulation.",
+    "history": [
+      {
+        "date": "2026-03-01T15:00:00Z",
+        "action": "Tidy fiber cables and vacuum cabinet base",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1041",
+    "name": "Queen Anne Transformer Q-1",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6256,
+    "longitude": -122.3654,
+    "neighborhood": "Queen Anne",
+    "technician": "Kenji Takahashi",
+    "lastServiced": "2026-05-12T10:00:00Z",
+    "description": "Padmount transformer feeding retail block on Mercer St. Load is within safe levels.",
+    "history": [
+      {
+        "date": "2026-05-12T10:00:00Z",
+        "action": "Routine outer housing paint and oil leak check",
+        "technician": "Kenji Takahashi"
+      }
+    ]
+  },
+  {
+    "id": "AST-1042",
+    "name": "West Seattle Main Water Line Valve",
+    "category": "Water",
+    "status": "pending",
+    "priority": "medium",
+    "latitude": 47.5587,
+    "longitude": -122.3888,
+    "neighborhood": "West Seattle",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-02-12T13:00:00Z",
+    "description": "Isolation gate valve on commercial line. Scheduled for cycling test and packing check.",
+    "history": [
+      {
+        "date": "2026-02-12T13:00:00Z",
+        "action": "Cleaned dirt from stem housing vault",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1043",
+    "name": "U-District High Temperature Sensor U-3",
+    "category": "Gas",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6599,
+    "longitude": -122.3112,
+    "neighborhood": "University District",
+    "technician": "David K.",
+    "lastServiced": "2026-05-02T15:00:00Z",
+    "description": "Temperature probe on regional supply bypass. Temperature values fluctuate with flow velocity, all within safety envelope.",
+    "history": [
+      {
+        "date": "2026-05-02T15:00:00Z",
+        "action": "Cleaned probe terminals and checked calibration points",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1044",
+    "name": "Downtown Substation Power Pole D-18",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6033,
+    "longitude": -122.3256,
+    "neighborhood": "Downtown",
+    "technician": "Marcus Vance",
+    "lastServiced": "2026-05-18T10:00:00Z",
+    "description": "Support pole carrying lines from downtown sub-hub. Wood pole health assessment shows no decay.",
+    "history": [
+      {
+        "date": "2026-05-18T10:00:00Z",
+        "action": "Performed groundline chemical inspection",
+        "technician": "Marcus Vance"
+      }
+    ]
+  },
+  {
+    "id": "AST-1045",
+    "name": "Fremont Water Pump F-4",
+    "category": "Water",
+    "status": "active",
+    "priority": "medium",
+    "latitude": 47.6555,
+    "longitude": -122.3533,
+    "neighborhood": "Fremont",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-05-20T11:00:00Z",
+    "description": "Water booster pump servicing elevated canal buildings. Pressure graphs display normal duty cycle.",
+    "history": [
+      {
+        "date": "2026-05-20T11:00:00Z",
+        "action": "Oil change on pump gearbox",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1046",
+    "name": "Capitol Hill Telecom Switch C-8",
+    "category": "Telecom",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6189,
+    "longitude": -122.3111,
+    "neighborhood": "Capitol Hill",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-05-24T16:00:00Z",
+    "description": "Municipal ethernet cabinet for street-level public wifi and traffic telemetry. Functional.",
+    "history": [
+      {
+        "date": "2026-05-24T16:00:00Z",
+        "action": "Replaced faulty fans and checked power supplies",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  },
+  {
+    "id": "AST-1047",
+    "name": "Ballard Main Electrical Substation B-1",
+    "category": "Electrical",
+    "status": "active",
+    "priority": "high",
+    "latitude": 47.6677,
+    "longitude": -122.3812,
+    "neighborhood": "Ballard",
+    "technician": "Kenji Takahashi",
+    "lastServiced": "2026-05-21T09:00:00Z",
+    "description": "High capacity commercial transformer. Monitored gas indicators show no internal decomposition.",
+    "history": [
+      {
+        "date": "2026-05-21T09:00:00Z",
+        "action": "Completed scheduled thermal scan of bushings and cable headers",
+        "technician": "Kenji Takahashi"
+      }
+    ]
+  },
+  {
+    "id": "AST-1048",
+    "name": "Queen Anne Methane Sniffer Q-6",
+    "category": "Gas",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6321,
+    "longitude": -122.3633,
+    "neighborhood": "Queen Anne",
+    "technician": "David K.",
+    "lastServiced": "2026-05-05T14:00:00Z",
+    "description": "Safety detector inside pressure relief vault. Constant zero telemetry reading.",
+    "history": [
+      {
+        "date": "2026-05-05T14:00:00Z",
+        "action": "Routine sensor calibration and test cycle",
+        "technician": "David K."
+      }
+    ]
+  },
+  {
+    "id": "AST-1049",
+    "name": "West Seattle Outfall Sewer Flow Meter",
+    "category": "Water",
+    "status": "active",
+    "priority": "medium",
+    "latitude": 47.5712,
+    "longitude": -122.3999,
+    "neighborhood": "West Seattle",
+    "technician": "Elena Rostova",
+    "lastServiced": "2026-05-11T11:00:00Z",
+    "description": "Water velocity telemetry station on storm sewer outlet. Performance stable.",
+    "history": [
+      {
+        "date": "2026-05-11T11:00:00Z",
+        "action": "Cleaned biological residue from Doppler sensors",
+        "technician": "Elena Rostova"
+      }
+    ]
+  },
+  {
+    "id": "AST-1050",
+    "name": "Downtown Fiber Junction D-14",
+    "category": "Telecom",
+    "status": "active",
+    "priority": "low",
+    "latitude": 47.6055,
+    "longitude": -122.3288,
+    "neighborhood": "Downtown",
+    "technician": "Sarah Jenkins",
+    "lastServiced": "2026-05-18T10:00:00Z",
+    "description": "Local high density fiber splitter array. All ports verified, normal laser signal levels.",
+    "history": [
+      {
+        "date": "2026-05-18T10:00:00Z",
+        "action": "Cleaned splitter panels and documented ports",
+        "technician": "Sarah Jenkins"
+      }
+    ]
+  }
+]
